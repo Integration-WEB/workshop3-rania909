@@ -37,7 +37,22 @@ body {
 
 
 /*============= FOOTER =============*/
+ul.social{
+  list-style-type: none;
+  max-width: 16rem;
+  margin: 0 auto
 
+}
+i{
+  font-size: 2rem;
+  color: white;
+
+}
+i:hover{
+  font-size: 2rem;
+  color: rgb(231, 138, 138);
+  
+}
 
 /*===== FIXED BACKGROUND IMG =====*/
 .fixed {
